@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=electroboy404notfound" alt="electroboy404notfound" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/electronicsboy2" target="blank"><img src="https://img.shields.io/twitter/follow/electronicsboy2?logo=twitter&style=for-the-badge" alt="electronicsboy2" /></a> </p>
+<p align="left"> <a href="https://twitter.com/themeowboycat" target="blank"><img src="https://img.shields.io/twitter/follow/TheMeowBoyCat?logo=twitter&style=for-the-badge" alt="themeowboycat" /></a> </p>
 
 - 🔭 I’m currently working on [YAPCA](https://github.com/ElectroBoy404NotFound/YAPCA)
 
