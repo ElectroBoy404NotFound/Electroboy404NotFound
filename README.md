@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/themeowboycat" target="blank"><img src="https://img.shields.io/twitter/follow/TheMeowBoyCat?logo=twitter&style=for-the-badge" alt="themeowboycat" /></a> </p>
 
-- 🔭 I’m currently working on [YAPCA](https://github.com/ElectroBoy404NotFound/YAPCA)
+- 🔭 I’m currently working on [Your PostCard](https://github.com/priyannik/your-postcard)
 
 - 🌱 I’m currently learning **Android Development, Kotlin**
 
 - 🤝 I’m looking for help with [YAPCA](https://github.com/ElectroBoy404NotFound/YAPCA)
 
-- 📝 I regularly write articles on [https://cyberspacestudios.github.io/blog/](https://cyberspacestudios.github.io/blog/)
+- 📝 I regularly write articles on [https://electroboy404notfound.github.io/blog]([https://cyberspacestudios.github.io/blog/](https://electroboy404notfound.github.io/blog))
 
 - 💬 Ask me about **Java**
 
